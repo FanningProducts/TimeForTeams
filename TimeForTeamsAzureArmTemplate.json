@@ -165,8 +165,8 @@
 				{"name": "APPLICATIONINSIGHTS_CONNECTION_STRING", "value": "[reference(concat('microsoft.insights/components/', parameters('web_app_url'), 'Insights'), '2018-05-01-preview').ConnectionString]"},
 				{"name": "ApplicationInsightsAgent_EXTENSION_VERSION", "value": "~2"},
 				{"name": "LogLevel", "value": "Information"},
-				{"name": "PROJECTUM_SCRIPTURL", "value": "https://projectumcdnstorage.blob.core.windows.net/timepackages/ui/releasecandidate/0.7.39-13678.js"},
-				{"name": "WEBSITE_RUN_FROM_PACKAGE", "value": "https://projectumcdnstorage.blob.core.windows.net/timepackages/api/releasecandidate/0.8.35-13667.zip"},
+				{"name": "PROJECTUM_SCRIPTURL", "value": "https://projectumcdnstorage.blob.core.windows.net/timepackages/ui/releasecandidate/0.7.40-13755.js"},
+				{"name": "WEBSITE_RUN_FROM_PACKAGE", "value": "https://projectumcdnstorage.blob.core.windows.net/timepackages/api/releasecandidate/0.8.38-13804.zip"},
 				{"name": "XDT_MicrosoftApplicationInsights_Mode", "value": "default"}
 				],
 				"siteAuthSettings": {
